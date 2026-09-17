@@ -454,11 +454,4 @@ This project is intended for **educational and analytical purposes only**.
 
 The results are not medical advice, clinical recommendations, or confirmed drug-safety findings. Potential signals represent patterns of disproportionate reporting within the analyzed data and require further investigation and domain expertise.
 
-```
 
-
-
-> **"2,502 potential disproportional-reporting signals surfaced for further investigation."**
-
-That sounds much more like a serious **data analyst / data science project** and shows that you understand the limitations of your analysis.
-```
